@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Event">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+       <LinearLayout
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <FrameLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical">
+               <ImageView
+                   android:layout_width="match_parent"
+                   android:layout_height="114dp"
+                   android:layout_gravity="top"
+                   android:src="@drawable/judul" />
+               <ImageButton
+                   android:layout_marginTop="5dp"
+                   android:onClick="back"
+                   android:layout_width="50dp"
+                   android:layout_height="50dp"
+                  android:background="@color/transparent"
+                   android:src="@drawable/icon_back_white"/>
+
+           </FrameLayout>
+           <TextView
+               android:id="@+id/textTitleEvent"
+               android:layout_width="match_parent"
+               android:gravity="center_horizontal"
+               android:text="Karnaval Danau Toba"
+               android:textColor="@color/black"
+               android:textSize="25dp"
+               android:textStyle="bold"
+               android:fontFamily="@font/charmonman_bold"
+               android:layout_height="wrap_content" />
+
+           <androidx.cardview.widget.CardView
+               android:layout_width="match_parent"
+               android:layout_height="225dp"
+               android:layout_marginBottom="10dp"
+               android:layout_marginRight="10dp"
+               android:layout_marginLeft="10dp"
+               app:cardElevation="20dp">
+
+               <ImageView
+                   android:id="@+id/imageEventF"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:elevation="12dp"
+                   android:scaleType="centerCrop"
+                   android:src="@drawable/lake_toba" />
+           </androidx.cardview.widget.CardView>
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_marginBottom="20dp"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_marginLeft="20dp"
+               android:layout_marginRight="20dp">
+               <TextView
+                   android:id="@+id/textDateEvent"
+                   android:layout_marginTop="10dp"
+                   android:textStyle="bold"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:textColor="@color/black"
+                   android:textSize="14dp"
+                   android:fontFamily="@font/sourcesanspro_regular"
+                   android:text="20 oktober 2021"
+                   android:gravity="right" />
+               <TextView
+                   android:id="@+id/textDescriptionEventF"
+                   android:textColor="@color/black"
+                   android:fontFamily="@font/sourcesanspro_regular"
+                   android:layout_marginTop="10dp"
+                   android:textSize="14dp"
+                   android:justificationMode="inter_word"
+                   android:layout_width="match_parent"
+                   android:text="@string/lorem"
+                   android:layout_height="match_parent"/>
+           </LinearLayout>
+       </LinearLayout>
+    </ScrollView>
+</LinearLayout>

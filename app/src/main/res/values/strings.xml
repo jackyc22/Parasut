@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Parasut</string>
+    <string name="sign_up"><u>Signup</u></string>
+    <string name="login"><u>Login</u></string>
+    <string name="resend"><u>Resend</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae ultrices odio. Nullam sapien urna, ultrices a viverra quis, porta rutrum risus. Etiam vehicula cursus consequat. Aliquam vehicula purus lorem, a sodales urna suscipit ut. Proin volutpat sagittis pellentesque. Mauris dui urna, ultrices tincidunt nunc et, mollis molestie quam. Praesent sit amet felis massa. Cras interdum vestibulum lorem in euismod. In eget justo eget ex imperdiet egestas. Pellentesque quis lacus non nulla pretium elementum. Vestibulum quis sodales risus. Nulla et lacus auctor, semper tellus vel, laoreet arcu. Integer tincidunt felis ac nunc lacinia, vel posuere mi hendrerit.</string>
+    <string name="date_karnaval_danautoba">3, Juli 2021</string>
+    <string name="date_samosir_music_internasional">7, Agustus 2021</string>
+    <string name="date_gemes">6, November 2021</string>
+    <string name="date_festivalnias">16, November 2021</string>
+    <string name="dec_karnaval_danautoba">
+        Event tahunan Kabupaten Toba Samosir itu diselenggarakan di Balige-Toba Samosir pada 3-5 Juli 2021. Sejumlah \.\..
+    </string>
+    <string name="dec_samosir_music_internasional">
+        Kegiatan ini digelar di Open Stage Tuk-tuk Siadong Kecamatan Simanindo pada 7-8 Agustus 2021 \.\..
+    </string>
+    <string name="dec_gemes">
+        Kegiatan ini digelar pada 6-8 November 2021. Gelar Melayu Serumpun (GEMES) Kota Medan merupakan \.\..
+    </string>
+    <string name="dec_festival_nias">
+        Ajang tahunan tersebut digelar pada 16-20 November 2021. Event ini digelar secara bersama oleh seluruh \.\..
+    </string>
+    <string name="title_event_danautoba"><u>Karnaval Pesona Danau Toba</u></string>
+    <string name="title_event_samosir"><u>Samosir Music Internasional</u></string>
+    <string name="title_event_gemes"> <u>Gelar Melayu Serumpun (GEMES)</u></string>
+    <string name="title_event_nias"><u>Ya\'Ahowu Nias Festival</u></string>
+    <string name="text_description"><u>Deskripsi</u></string>
+    <string name="text_potensi_wisata"><u>Potensi Wisata</u></string>
+    <string name="text_potensi_flora_fauna"><u>Potensi Flora dan Fauna</u></string>
+    <string name="text_kebudayaan"><u>Kebudayaan</u></string>
+    <string name="text_map"><u>Map</u></string>
+    <string name="dec_event_danautoba">
+        Kawasan wisata Danau Toba selalu menggelar Event yang meriah tiap tahun, yaitu Karnaval Pesona Danau Toba. Event ini berpusat di Kota Balige, Sumatera Utara. Karnaval Pesona Danau Toba 2021 ini rencananya akan berlangsung pada tanggal 3 hingga 5 Juli 2020 mendatang.
+Karnaval ini bukan karnaval biasa, karena setiap tahun selalu hadir orang-orang penting/pejabat negara yang ikut memeriahkan karnaval. Bahkan, Pada Karnaval Pesona Danau Toba tahun 2016 dihadiri Bapak Joko Widodo, orang nomor satu di Indonesia saat ini.
+Karnaval Pesona Danau Toba merupakan event untuk melestarikan seni budaya dan untuk meningkatkan rasa cinta masyarakat dalam seni budaya daerah. Seperti diketahui bersama bahwa daerah Provinsi Sumatera Utara memiliki multi etnis sehingga kreativitas budaya lokal perlu dilestarikan dan dikembangkan dengan salah satunya melaksanakan karnaval.<br />
+Karnaval Pesona Danau Toba telah resmi menjadi Event tahunan Kabupaten Toba Samosir yang merujuk kepada Instruksi Presiden pada Karnaval Kemerdekaan Pesona Danau Toba 2016 lalu. Banyak kegiatan yang selalu ditunggu-tunggu dalam Karnaval Pesona Danau Toba, seperti parade kendaraan hias berwarna-warni yang akan hilir mudik di Kawasan Danau Toba, peragaan pakaian adat, dan perlombaan kuliner khas batak. Berikut ini beberapa kegiatan yang biasa dilangsungkan pada Karnaval Pesona Danau Toba.<br />
+    </string>
+    <string name="dec_event_samosir">
+       Samosir Music International (SMI) merupakan rangkaian dari Horas Samosir Fiesta yang diselenggarakan setiap Tahun oleh Pemerintah Kabupaten Samosir yang didukung oleh BPODT dan Kementerian Pariwisata, event ini merupakan salah satu program untuk meningkatkan nilai wisata dan budaya Samosir.
+Event musik yang menampilkan musisi luar negeri dan lokal ini menjadi acara tahunan yang banyak ditunggu-tunggu masyarakat kawasan Danau Toba, terkhusus Kabupaten Samosir.
+Konsisten diadakan tiap tahun medio Agustus membuat Samosir Musik Internasional salah satu daya tarik wisatawan mancanegara maupun lokal.
+Tiap tahunnya, SMI mampu mendatangkan ribuan penonton, yang otomatis menjadi penunjang perputaran roda ekonomi di kawasan Danau Toba.
+Jika dilihat hasilnya, ada proses panjang yang luar biasa dari para musisi lokal, event organizer, termaksud Henry Manik selaku manejer project untuk mensukseskan Samosir Music International berjalan sampai 5 tahun
+Samosir Music Internasional akan kembali digelar selama dua hari yaitu pada tanggal 07 -08 Agustus 2021 mendatang, bertempat Open Stage Tuk-tuk Siadong Kec. Simanindo. Samosir Music Internasional ini akan menampilkan Konser Musik Kolaboratif antara Artis Asing, Artis Nasional dan Lokal Kabupaten Samosir dengan materi lagu-lagu Batak serta interaksi kolaborasi musikla tradisional dan modern.
+    </string>
+    <string name="dec_event_nias">
+Ya\'ahowu Nias Festival 2021 digelar pada 16-20 November mendatang di Pantai Indah Sirombu dan Lapangan Merdeka Lahomi, Nias Barat. Puncak acara dipusatkan di Lapangan Merdeka Lahomi dan Pantai Indah Sirombu, Nias Barat, Sumatera Utara.
+Sebagai bagian dari Sumatera Utara, Nias masih mewarisi tradisi megalitikum. Desa-desa di Nias berhias benteng dan batu-batu besar. Budaya megalitikum itu ada di Desa Ononamolo, Kota Gunung Sitoli menjadi salah satu situs megalitik di Nias. Untuk mencapainya, wisatawan harus mendaki bukit dengan berjalan kaki.
+Lalu adapula Desa Bawamataluo yang merupakan Situs Warisan Budaya UNESCO. Desa ini terletak sekitar 15 kilometer dari Teluk Dalam. Desa itu memiliki atraksi yang unik bagi wisatawan, berupa tradisi lompat batu, sebagai ujian seorang lelaki sudah beranjak dewasa dan mulai boleh ikut berperang.
+Di desa itu juga terdapat rumah-rumah adat Nias, yang disebut juga Omahoda. Namun perkembangan zaman membuat jumlah rumah adat itu kian jarang yang orisinil, karena dimodifikasi. Omahoda yang masih terjaga keasliannya dapat dijumpai di Kampung Bawamataluo.
+Soal wisata bahari, Nias adalah kepulauan yang memiliki pantai-pantai indah. Salah satunya Pantai Pink atau Pink Beach Gawu Soyo di Desa Ombolata. Pantai berpasir merah muda di Gawu Soyo merupakan keindahan alam yang unik di Nias.
+Destinasi selancar selain Teluk Lagundri ada di Kepulauan Hinako yang merupakan gugusan pulau berjumlah delapan. Ombak di kepulauan itu mencapai tinggi tujuh meter dengan panjang 200 meter.
+    </string>
+    <string name="dec_event_gemes">
+Culture event tahunan yang diselenggarakan Pemerintah Kota Medan melalui Dinas Pariwisata Kota Medan ini semula hanya bertaraf provinsi kemudian meningkat menjadi nasional.
+Gelar Melayu Serumpun merupakan  kegiatan yang mempertemukan Seni Budaya dan untuk meningkatkan kunjungan wisata lokal maupun mancanegara sekaligus eduksi dan ekplorasi kebergaman seni dan budaya melayu sebagai kearifan lokal dan destinasi budaya.
+Event ini juga menjadi Sarana edukasi bagi para generasi muda sehingga mereka mengetahui lebih jauh mengenai seni dan budaya melayu sebagai etnis asli Kota Medan.
+        Event GEMES memiliki makna cukup penting, selain bertukar informasi tentang pembinaan dan pengembangan antar wilayah dan antar negara, juga sebagai upaya meningkatkan pemahaman dan menumbuhkembangkan apresiasi terhadap seni di kalangan masyarakat sebagai filter masuknya budaya asing.
+    </string>
+    <string name="title_danau_toba">Danau Toba</string>
+    <string name="danau_toba_description_cover">Danau Toba adalah Danau alami berukuran besar di Indonesia dengan panjang 100 kilometer, dengan .\.\.</string>
+    <string name="danau_toba_description">Danau Toba adalah Danau alami berukuran besar di Indonesia dengan panjang 100 kilometer, dengan lebar 30 kilometer, memiliki kedalaman 505 meter, dan ketinggian permukaan sekitar 900 meter yang menjadikannya sebagai danau terbesar di Indonesia dan danau vulkanik terbsesar di dunia. Wisata Danau Toba selain terkenal dengan keindahan alamnya juga menyimpan cerita rakyat yang cukup terkenal dan dipercayai oleh masyarakat di sana sebagai asal mula terbentuknya Danau Toba.</string>
+    <string name="location_danau_toba">Kabupaten Toba Samosir</string>
+    <string name="rate_danau_toba">4.8</string>
+    <string name="rate_review_danau_toba">\(825\)</string>
+    <string name="danau_toba_cagar_budaya">\-</string>
+    <string name="danau_toba_bahasa">Penduduk lokal yang tinggal di sekitar danau toba pada umumnya menggunaka Bahasa Batak Toba. </string>
+    <string name="danau_toba_seni">Di Danau Toba terdapat salah satu busana khas Indonesia yaitu Ulos yang secara umum dikembangkan oleh masyarakat batak, selain itu di Danau Toba juga terdapat alat music Gondang Batak.</string>
+    <string name="danau_toba_adat_istiadat">Tortor Batak Toba adalah jenis tarian purba dari Batak Toba yang berasal dari Sumatera Utara, Tarian Tortor adalah tarian seremonial yang disajikan dengan musik gondang. Secara fisik, tortor merupakan tarian, namun makna yang lebih dari hanya sekadar gerakan-gerakannya menunjukkan tortor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara partisipan upacara.</string>
+    <string name="danau_toba_flora_fauna">Flora di danau ini meliputi berbagai jenis fitoplankton, makrofita kecil, makrofita mengambang, dan makrofita terbenam, sedangkan daratan sekitarnya ditutupi hutan hujan, termasuk jenis hutan pinus tropis Sumatra di daerah pegunungan yang lebih tinggi.
+Fauna di danau ini meliputi beberapa spesies zooplankton dan hewan bentos. Karena danau ini oligotrof \(tidak kaya nutrient\), ikan aslinya tergolong langka. Hanya ada dua ikan endemik di danau ini, yaitu Rasbora tobana \(bisa disebut hampir endemik karena juga ditemukan di sungai\-sungai yang bermuara di danau ini\) dan Neolissochilus thienemanni, biasa disebut ikan Batak.
+</string>
+
+    <string name="title_sipiso_piso">Air Terjun Sipiso\-Piso</string>
+    <string name="sipiso_piso_description">Air Terjun Sipisopiso adalah sebuah air terjun yang berada di ketinggian sekitar 1.300 diatas permukaan laut dengan ketinggian air hingga 120 meter dan mengucur deras membentuk garis vertikal sempurna. Air Terjun Sipisopiso berada di bibir kaldera raksasa Danau Toba serta terbentuk pada aliran Sungai Pajanabolon yang merupakan salah satu sungai menyuplai air ke Danau Toba. Penamaan air terjun ini berkaitan dengan jatuhnya air melalui tebing yang dari kejauhan tampak seperti bilah-bilah pisau tajam. Nama Sipiso-piso diambil dari kata "piso" yang dalam bahasa Indonesia berarti pisau.</string>
+    <string name="location_sipiso_piso">Desa Tongging, Kecamatan Merek</string>
+    <string name="rate_sipiso_piso">4.5</string>
+    <string name="rate_review_sipiso_piso">\(505\)</string>
+    <string name="sipiso_piso_cagar_budaya">\-</string>
+    <string name="sipiso_piso_bahasa">Desa Tongging menggunakan bahasa lokal dengan menggunakan Bahasa dari 3 suku yaitu Batak Toba, Pakpak dan Karo. </string>
+    <string name="sipiso_piso_seni">\-</string>
+    <string name="sipiso_piso_adat_istiadat">Adat istiadat yang berlangsung di Desa Tongging adalah acara pesta budaya yang mengguna¬kan tarian tor-tor sementara dalam budaya perkawinan menggunakan adat karo.</string>
+    <string name="sipiso_piso_flora_fauna">\-</string>
+
+    <string name="title_samosir">Pulau Samosir</string>
+    <string name="samosir_description">Objek wisata dengan ketinggian 1000 meter di atas permukaan laut ini dapat ditempuh dengan menggunakan kapal ferry. Suguhan pemandangan alam yang menarik dan indah akan memanjakan para wisatawan yang ada serta keunikan budaya, sejarah juga kuliner khas Batak.</string>
+    <string name="location_samosir">Kabupaten Toba Samosir</string>
+    <string name="rate_samosir">4.6</string>
+    <string name="rate_review_samosir">\(725\)</string>
+    <string name="samosir_cagar_budaya">Cagar budaya yang terdapat di Kabupaten Samosir diantaranya adalah Terusan Tano Ponggol, Rumah Nagari Kenegerian Limbong, Pesanggarahan, Kantor Nagari Pangururan, Rumah Batak, Makam Tua Sidabutar, Batu Kursi Parsidangan, dan Museum Huta Bolon.</string>
+    <string name="samosir_bahasa">Di Kabupaten Samosir, Bahasa Batak Toba merupakan bahasa yang masih digunakan dalam berkomunikasi sehar-hari terutama pada acara adat dan masyarakat yang tinggal di pedesaan. Selain itu di Kabupaten Samosir juga terdapat Aksara Batak yang diajarkan sejak kelas 3 SD sampai dengan SMP. </string>
+    <string name="samosir_seni">Beragam kesenian dapat dijumpai di Kabupaten Samosir diantaranya adalah Dideng-dideng, Opera Batak, mengukir kayu (manggorga, mangalontik), memahat batu, nyanyian rakyat, Martumba, Gondang Sabangunan, Musik Uning-uningan, kerajinan/ tenun Ulos.</string>
+    <string name="samosir_adat_istiadat">Adat Istiadat yang berlangsung di Kabupaten Samosir diantaranya adalah Tortor, sistem pembagian warisan, kedudukan istri menurut hukum waris adat Batak, perkawinan, sistem kekerabatan, serta dalam penyelesaian sengketa tanah dan tindak pidana.</string>
+    <string name="samosir_flora_fauna">\-</string>
+
+    <string name="title_istana_maimun">Istana Maimun</string>
+    <string name="location_istana_maimun">Jl.Brigadir Jenderal Katamso, Kota Medan</string>
+    <string name="istana_maimun_description_cover">Istana Kesultanan Deli yang juga telah menjadi salah satu ikon kota Medan. Selain sejarah yang .\.\.</string>
+    <string name="istana_maimun_description">Istana Kesultanan Deli yang juga telah menjadi salah satu ikon kota Medan. Selain sejarah yang terdapat di dalamnya. Istana ini juga memiliki desain interior yang unik dimana paduan unsur warisan kebudayaan Melayu tergabung dengan gaya Islam, Spanyol, India serta Italia yang dapat membuat para wisatawan terpukau. </string>
+    <string name="rate_istana_maimun">4.2</string>
+    <string name="rate_review_istana_maimun">\(389\)</string>
+    <string name="istana_maimun_cagar_budaya">Cagar Budaya : Istana Maimun telah ditetapkan sebagai cagar budaya sesuai Undang-Undang tahun 2010 tentang Cagar Budaya. Kemudian diperkuat dengan Surat Keputusan Menteri Pariwisata dan Ekonomi Kreatif serta Peraturan Daerah Kota Medan Nomor 6 Tahun 1988 tentang Pelestarian Lingkungan yang Bernilai Sejarah Arsitektur Kepurbakalaan. (K-DH).</string>
+    <string name="istana_maimun_bahasa">\-</string>
+    <string name="istana_maimun_seni">Gaya arsitektur pada Istana Maimun berisi perpaduan budaya gaya arsitektur Islam, Melayu, India, Spanyol, dan Italia.</string>
+    <string name="istana_maimun_adat_istiadat">\-</string>
+    <string name="istana_maimun_flora_fauna">\-</string>
+
+    <string name="title_rahmat">Rahmat International Wildlife Museum &amp; Gallery</string>
+    <string name="location_rahmat">Jl. S.Parman, Petisah hulu, Kota Medan</string>
+    <string name="rahmat_description_cover">Museum satwa liar pertama di Asia Tenggara. Terdapat berbagai jenis satwa yang sudah diawetkan dengan .\.\.</string>
+    <string name="rahmat_description">Museum satwa liar pertama di Asia Tenggara. Terdapat berbagai jenis satwa yang sudah diawetkan dengan 5.600 spesies koleksi satwa dari berbagai belahan penjuru dunia dapat ditemui di sini, Museum ini merupakan tempat yang tepat untuk kita dapat belajar lebih dalam mengenai alam dan satwa liar.</string>
+    <string name="rate_rahmat">4.0</string>
+    <string name="rate_review_rahmat">\(310\)</string>
+    <string name="rahmat_cagar_budaya">\-</string>
+    <string name="rahmat_bahasa">\-</string>
+    <string name="rahmat_seni">\-</string>
+    <string name="rahmat_adat_istiadat">\-</string>
+    <string name="rahmat_flora_fauna">Terdapat 5.600 spesies koleksi satwa yang telah diawetkan.</string>
+
+    <string name="title_danau_linting">Danau Linting</string>
+    <string name="location_danau_linting">Desa Sibunga-bunga Hilir, Kabupaten Deli Serdang</string>
+    <string name="danau_linting_description_cover">Danau linting berada di desa sibunga-bunga, kecamatan sinembah tanjung muda (STM) hulu .\.\.</string>
+    <string name="danau_linting_description">
+        Danau linting berada di desa sibunga-bunga, kecamatan sinembah tanjung muda (STM) hulu, kabupaten deli serdang, sumatera utara. keindahan danau ini tidak lepas dari kesan mistis yang tersebar dari mulut ke mulut. Kesan mistis ini di sebabkan oleh misteri bagaimana pembentukan danau linting ini terjadi, Danau linting merupakan Danau Vulkanik yang memiliki ukuran 1 hektar dengan kedalaman lebih dari 100 meter. Menurut beberapa sumber, danau linting ini dulunya ada berbentuk bukit, namun pada malam hari terjadi getaran hebat dan terdengar suara ledakan hebat dan keesokan harinya telah terbentuk sebuah danau yang sangat dalam, danau ini juga mengandung belerang yang membuat warna airnya berwarna kehijauan.
+Suasana di danau linting ini terasa begitu sejuk, ini akibat banyaknya pohon-pohon yang banyak tumbuh di tepi danau ini dan tentu saja pohon-pohon besar ini menambah suasana mistis di danau linting ini. Untuk masuk ke danau ini, para pengunjung di kenakan biaya Rp.5000/orang. Fasilitas umum di tempat ini juga belum cukup memadai, tetapi sudah cukup untuk tempat melepas hiruk pikuk suasana kota yang penuh polusi dan kebisingan.
+</string>
+    <string name="rate_danau_linting">4.1</string>
+    <string name="rate_review_danau_linting">\(426\)</string>
+    <string name="danau_linting_cagar_budaya">Kabupaten Deli Sertdang memiliki banyak cagar budaya, diantaranya adalah Bangunan Suci Keagamaan Di Situs Kota Cina, Arca dan Mata Uang Cina dari Situs Kota Cina, Banteng Putri Hijau, Situs Kota Rantang, Keramat Kajang Batu, Makam Islam Keramat Gajah, Kelenteng Naga Hijau, Masjid Raya Sultan Basyaruddin, Balai Datuk Setia Maharaja Negeri Serdang, Rumah Kedatukan Batang Kuis, Situs Telaga Tujuah, Vihara Budi Abadi, Gua Jepang, Tugu Bambu Runcing, Gudang Sortir dan Fermentasi Tembakau, Komplek Gua Rampah, Bukit Kerang/Kepah, dan lain sebagainya.</string>
+    <string name="danau_linting_bahasa">\-</string>
+    <string name="danau_linting_seni">Kabupaten Deli Serdang memiliki kesenian yang beragam diantaranya adalah seni tari (Rangkaian Tari Melayu Karya Alm. Sauti seperti Lenggang Patah Sembilan/Kuala Deli, Lenggok Mak Inang, Serampang Dua Belas/Pulau Sari, Tari Gobuk, Tari Zapin Menjelang Magrib Karya Maestro Bpk. Yosrizal Firdaus, Tari Manduda, dan lain sebagainya), seni musik (Musik Simalungun, Patam-Patam dan Gubang, Orkes Melayu, Musik Tradisional karo, dan lain sebagainya), dan Seni Teater (Teater Menora, Teater Makyong, Teater Mendu, Teater Bangsawan, dan lain sebagainya).</string>
+    <string name="danau_linting_adat_istiadat">Adat Istiadat yang ada di Kabupaten Deli Serdang diantaranya adalah Pesta Rebo-rebo, Gendang Guro-Guro Aron, Perkolong-kolong, Suroan dan Nasi Ambeng, Wayangan, Jamuan Laut, Mengemping, Tradisi Tolak Bala, Turun Tanah Melayu (Silat), Mangupa (Perkawinan Adat Tapanuli Selatan), dan lain sebagainya.</string>
+    <string name="danau_linting_flora_fauna">\-</string>
+</resources>

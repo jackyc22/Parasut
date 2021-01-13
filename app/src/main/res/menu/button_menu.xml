@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_home"/>
+    <item
+        android:id="@+id/favorite"
+        android:enabled="true"
+        android:title="Favorite"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_favorite"/>
+    <item
+        android:id="@+id/calendar"
+        android:title="Kalender Event"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_calendar"/>
+    <item
+        android:id="@+id/profil"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:title="Akun Saya"
+        android:icon="@drawable/ic_launcher_profil"/>
+</menu>
