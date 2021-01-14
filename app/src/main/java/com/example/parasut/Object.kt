@@ -5,11 +5,14 @@ import android.graphics.Outline
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.LayoutInflater
 import android.view.View
+import android.view.View.inflate
 import android.view.ViewOutlineProvider
-import android.widget.ImageView
-import android.widget.TextView
+import android.widget.*
 import androidx.annotation.RequiresApi
+import androidx.appcompat.app.AlertDialog
+import androidx.core.content.res.ColorStateListInflaterCompat.inflate
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentTransaction
 import androidx.viewpager2.widget.ViewPager2
@@ -33,8 +36,6 @@ class Object : AppCompatActivity() {
         setContentView(R.layout.activity_object)
         viewPager=findViewById(R.id.imageSliderObject)
         val data: MutableList<ImageSlider> =ArrayList()
-
-
 
         var title =intent.getStringExtra("TITLE")
         if(title.equals(getString(R.string.title_danau_toba))){
@@ -103,8 +104,7 @@ class Object : AppCompatActivity() {
         var bundle=Bundle()
         bundle.putString("title",title)
         overview.arguments=bundle
-
-        fab.hide()
+        fabAdd.hide()
         loadFragment(overview)
         ov= findViewById(R.id.textOverview)
         rv=findViewById(R.id.textReview)
@@ -117,8 +117,7 @@ class Object : AppCompatActivity() {
             var bundle=Bundle()
             bundle.putString("title",title)
             overview.arguments=bundle
-
-            fab.hide()
+            fabAdd.hide()
             loadFragment(overview)
             ov.setTextColor(Color.parseColor("#000000"))
             view_ov.setBackgroundColor(Color.parseColor("#000000"))
@@ -129,7 +128,7 @@ class Object : AppCompatActivity() {
         rv.setOnClickListener{
             var review=ReviewFragment()
             loadFragment(review)
-            fab.show()
+            fabAdd.show()
             rv.setTextColor(Color.parseColor("#000000"))
             view_rv.setBackgroundColor(Color.parseColor("#000000"))
             ov.setTextColor(getColor(R.color.gray_white))
@@ -155,5 +154,30 @@ class Object : AppCompatActivity() {
     }
     fun back(view: View) {
         finish()
+    }
+
+    fun fabAddReview(view: View) {
+        var mylayout=layoutInflater.inflate(R.layout.dialog_review,null)
+        val myDialogBuilder=AlertDialog.Builder(this).apply {
+            setView(mylayout)
+        }
+        var myDialog=myDialogBuilder.create()
+        var titleR=mylayout.findViewById<TextView>(R.id.textTitleReview)
+        var comment=mylayout.findViewById<EditText>(R.id.editTextComment)
+        var btnCheck=mylayout.findViewById<ImageButton>(R.id.btnCheck)
+        var btnClear=mylayout.findViewById<ImageButton>(R.id.btnClear)
+        var rateBar=mylayout.findViewById<RatingBar>(R.id.rateBar)
+        titleR.text=intent.getStringExtra("TITLE")
+        btnClear.setOnClickListener{
+            myDialog.cancel()
+        }
+        btnCheck.setOnClickListener {
+            Toast.makeText(this,"Terima Kasih",Toast.LENGTH_SHORT).show()
+            myDialog.cancel()
+        }
+        rateBar.setOnRatingBarChangeListener{ratingBar,rating,fromUser->
+            Toast.makeText(this,"Rating: $rating",Toast.LENGTH_SHORT).show()
+        }
+        myDialog.show()
     }
 }

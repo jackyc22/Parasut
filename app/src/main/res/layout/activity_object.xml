@@ -252,12 +252,14 @@
     </ScrollView>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/fabAdd"
+        android:onClick="fabAddReview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:tint="@color/gray"
-        android:backgroundTint="@color/gray_white2"
+        android:background="@color/white"
+        android:backgroundTint="@color/white"
         android:src="@drawable/ic_launcher_add"
         android:layout_margin="12dp"/>
     </FrameLayout>
