@@ -9,6 +9,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.Toast
+import kotlinx.android.synthetic.main.fragment_profil.*
+import kotlinx.android.synthetic.main.fragment_profil.view.*
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -39,19 +41,20 @@ class ProfilFragment : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         val rootView= inflater.inflate(R.layout.fragment_profil, container, false)
-        var btnLogout= rootView.findViewById<Button>(R.id.btnLogout)
-        var btnSeting=rootView.findViewById<ImageButton>(R.id.btnSetting)
-        var btnEdit=rootView.findViewById<ImageButton>(R.id.btnEditProfil)
-        btnLogout.setOnClickListener{
+        rootView.btnLogout.setOnClickListener{
             val intent=Intent(activity,Login::class.java)
             startActivity(intent)
         }
-        btnSeting.setOnClickListener{
+        rootView.btnSetting.setOnClickListener{
             val intent=Intent(activity,Setting::class.java)
             startActivity(intent)
         }
-        btnEdit.setOnClickListener{
+        rootView.btnEditProfil.setOnClickListener{
             val intent=Intent(activity,EditProfil::class.java)
+            startActivity(intent)
+        }
+        rootView.btnLogout.setOnClickListener{
+            val intent=Intent(activity,Login::class.java)
             startActivity(intent)
         }
         return rootView

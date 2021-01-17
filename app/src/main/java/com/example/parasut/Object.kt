@@ -163,7 +163,6 @@ class Object : AppCompatActivity() {
         }
         var myDialog=myDialogBuilder.create()
         var titleR=mylayout.findViewById<TextView>(R.id.textTitleReview)
-        var comment=mylayout.findViewById<EditText>(R.id.editTextComment)
         var btnCheck=mylayout.findViewById<ImageButton>(R.id.btnCheck)
         var btnClear=mylayout.findViewById<ImageButton>(R.id.btnClear)
         var rateBar=mylayout.findViewById<RatingBar>(R.id.rateBar)
