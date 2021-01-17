@@ -13,7 +13,11 @@ class EditProfil : AppCompatActivity() {
     }
 
     fun back(view: View) {
-        finish()
+        var dialogBuilder= AlertDialog.Builder(this).setMessage("Apakah anda yakin ingin keluar?").setPositiveButton("Ya")
+    {DialogInterface,id -> finish()}
+            .setNegativeButton("Tidak"){DialogInterface,id-> }
+        dialogBuilder.show()
+
 
     }
     override fun onBackPressed() {
